@@ -1,0 +1,25 @@
+
+
+.box-produto {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.box-produto img { max-width: 200px; }
+
+.item {
+    cursor: pointer;
+}
+
+.item{position:relative;top:5}
+.item:hover{top:-10px;box-shadow:0 50px 50px white;
+   transition: all .4s ease-in-out}
+
+   
+
+
+
+
+
+
